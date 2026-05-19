@@ -15,7 +15,6 @@ Full-stack eCommerce web application built using React and Spring Boot with prod
 
 Frontend
 - React.js
-- Bootstrap
 - Axios
 
 Backend
