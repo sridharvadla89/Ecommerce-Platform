@@ -11,7 +11,7 @@ Full-stack eCommerce web application built using React and Spring Boot with prod
 
 ---
 
-🛠️ Tech Stack
+ Tech Stack
 
 Frontend
 - React.js
